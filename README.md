@@ -1,7 +1,7 @@
 
 # docker-make
 
-Just Makefile to create docker image
+Just a Makefile to create docker image, easy than typing the whole line everytime
 
 ## 
 How to use it
